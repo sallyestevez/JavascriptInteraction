@@ -9,16 +9,12 @@ body, html {
   font-family: 'Yusei Magic', sans-serif;
 }
 
-.title {
+#title {
   color: #F6C0D0;
 }
 
 h3 {
   color: #E3B3C8;
-}
-
-.inputSection {
-  padding: 5px;
 }
 
 button {
@@ -28,4 +24,6 @@ button {
 
 .fortuneSection {
   padding-top: 5px;
+  color: #485665;
+  font-weight: bold;
 }
