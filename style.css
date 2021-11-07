@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Yusei+Magic&family=Zen+Kurenaido&family=Zen+Loop&display=swap');
+
+body, html {
+  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #8E7C93;
+  text-align: center;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+.title {
+  color: #F6C0D0;
+}
+
+h3 {
+  color: #E3B3C8;
+}
+
+.inputSection {
+  padding: 5px;
+}
+
+button {
+  background-color: #F7C6D4;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+.fortuneSection {
+  padding-top: 5px;
+}
